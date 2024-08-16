@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-	<h3>CLI branching</h3>
+	<h3>Dario branching</h3>
       </header>
     </div>
   );
